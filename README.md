@@ -1,5 +1,5 @@
 
-# EJ2 Calendars components Feature matrix sample for testing purpose sharing value in Angular routing.
+# EJ2 Calendars components Feature matrix sample for testing purpose with Angular routing.
 
 ## Installing
 
